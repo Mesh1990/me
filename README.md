@@ -1,3 +1,3 @@
 # medemo
 
-this is the text tyoe.
+this is the text tyoe!
